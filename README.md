@@ -1,0 +1,2 @@
+# masterGYI.webapp
+study
